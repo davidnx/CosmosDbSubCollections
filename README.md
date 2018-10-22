@@ -1,4 +1,4 @@
-![NuGet](https://img.shields.io/nuget/v/CosmosDbSubCollections.svg)
+[![NuGet](https://img.shields.io/nuget/v/CosmosDbSubCollections.svg)](https://www.nuget.org/packages/CosmosDbSubCollections)
 
 # CosmosDbSubCollections
 
